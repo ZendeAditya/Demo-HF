@@ -249,8 +249,7 @@
     
     "favouriteQuote" : "Be water"
     
-   }
-   
+   },
    {
         "id": "424",
         "Name": "Amitesh",
@@ -280,6 +279,13 @@
         "Year of Graduation" : "2023",
         "Intrest of work" : "Web Application Development",
         "favorite Quote" : "Never Stop Dreaming"
-    }
+    },
+    {
+        "id" : "23",
+        "name" : "Aditya",
+        "yearOfGraduation" : "2024",
+        "interestOfWork" : "Web development",
+        "favouriteQuote" : "Everything happens for a reason 🤗"
+       },
 
 ]
